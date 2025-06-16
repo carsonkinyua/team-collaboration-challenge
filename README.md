@@ -23,3 +23,15 @@
 
 ## 🔗 GitHub Profile
 [🔗 github.com/Mashnjogu](https://github.com/Mashnjogu)
+
+
+#3️⃣ **Hildah Gakuru**
+
+- 🎓 IT Graduate  
+- 💻 Android Developer  
+- 🌟 Favorite Tech Stack: Kotlin, Java, Firebase  
+- 🐞 Fun Fact: Some Android bugs are device-specific — your app can work perfectly on one phone and crash on another!  
+
+  ## 🔗 GitHub Profile
+[🔗 github.com/Mashnjogu](https://github.com/HildahWG)
+ 
