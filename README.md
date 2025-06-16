@@ -1,0 +1,4 @@
+- __Name__: Carson Kinyua
+- __Fun Fact__: Android versions are named after sweets, but haven’t always been.
+- __Favourite tech stack__: Kotlin, Jetpack Compose
+- [Github](https://github.com/carsonkinyua)
