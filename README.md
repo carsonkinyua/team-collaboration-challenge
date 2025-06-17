@@ -32,10 +32,11 @@
 - 🌟 Favorite Tech Stack: Kotlin, Java, Firebase  
 - 🐞 Fun Fact: Some Android bugs are device-specific — your app can work perfectly on one phone and crash on another!  
 
-  ## 🔗 GitHub Profil
-[🔗 (https://github.com/HildahWG)}
 
+## 🔗 GitHub Profile
+[🔗 github.com/HildahWG](https://github.com/HildahWG)
 
+---
 
 # 4️⃣ **Daniel Njoroge**
 
@@ -52,4 +53,13 @@
 ## 🔗 GitHub Profile
 [🔗 github.com/daniel-njoroge](https://github.com/daniel-njoroge)
 
- 
+---
+
+# 5️⃣ **Mike Ciuri**
+
+- 📱 Android Developer (Kotlin)  
+- 🌍 Fun Fact: I enjoy building cool apps and exploring tech  
+- 💻 Favorite Tech Stack: Kotlin, Jetpack Compose  
+- [🔗 github.com/WECK-web](https://github.com/WECK-web)
+
+---
