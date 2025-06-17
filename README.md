@@ -34,4 +34,20 @@
 
   ## 🔗 GitHub Profile
 [🔗 github.com/Mashnjogu](https://github.com/HildahWG)
+
+
+# 4️⃣ **Daniel Njoroge**
+
+-Name - Daniel Njoroge
+- 🏫 - Student at JKUAT
+- 🧠 Fun Fact - Android was originally made for digital cameras, not phones.
+  
+  
+## 💻 Favourite Tech Stack
+- Kotlin (Android)
+- Jetpack compose
+
+
+## 🔗 GitHub Profile
+[🔗 github.com/daniel-njoroge](https://github.com/daniel-njoroge)
  
