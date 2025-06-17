@@ -25,7 +25,7 @@
 [🔗 github.com/Mashnjogu](https://github.com/Mashnjogu)
 
 
-#3️⃣ **Hildah Gakuru**
+# 3️⃣ **Hildah Gakuru**
 
 - 🎓 IT Graduate  
 - 💻 Android Developer  
