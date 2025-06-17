@@ -32,6 +32,24 @@
 - 🌟 Favorite Tech Stack: Kotlin, Java, Firebase  
 - 🐞 Fun Fact: Some Android bugs are device-specific — your app can work perfectly on one phone and crash on another!  
 
-  ## 🔗 GitHub Profile
+  ## 🔗 GitHub Profil
 [🔗 (https://github.com/HildahWG)}
+
+
+
+# 4️⃣ **Daniel Njoroge**
+
+-Name - Daniel Njoroge
+- 🏫 - Student at JKUAT
+- 🧠 Fun Fact - Android was originally made for digital cameras, not phones.
+  
+  
+## 💻 Favourite Tech Stack
+- Kotlin (Android)
+- Jetpack compose
+
+
+## 🔗 GitHub Profile
+[🔗 github.com/daniel-njoroge](https://github.com/daniel-njoroge)
+
  
